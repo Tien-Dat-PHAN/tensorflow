@@ -1,1 +1,10 @@
+
 Learn Git
+
+git pull = git fetch + get merge
+
+origin/master => local repos
+
+master => remote repos
+
+
